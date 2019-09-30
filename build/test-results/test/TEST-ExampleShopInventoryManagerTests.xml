@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExampleShopInventoryManagerTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-30T22:12:57" hostname="Deniss-MacBook-Air.local" time="0.009">
+  <properties/>
+  <testcase name="test_basicCases" classname="ExampleShopInventoryManagerTests" time="0.009"/>
+  <system-out><![CDATA[Testing: +5 Dexterity Vest
+Testing: Aged Brie
+Testing: Elixir of the Mongoose
+Testing: Sulfuras, Hand of Ragnaros
+Testing: Backstage passes to a TAFKAL80ETC concert
+Testing: Conjured Mana Cake
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
